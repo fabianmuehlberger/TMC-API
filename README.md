@@ -1,3 +1,6 @@
+**This fork functions as a test enviroment for writing a documentation for the TMC-API and is on hold till the developers proceed with the development of the API**
+
+
 # TMC-API
 
 The TMC-API is a portable C library for working with Trinamic ICs in embedded projects.
